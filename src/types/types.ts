@@ -1,0 +1,1 @@
+export type sortVariant = "less" | "upward" | ""
